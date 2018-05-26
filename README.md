@@ -4,9 +4,9 @@
 
 ## Quick Links
 
-Preview Instructor Notes: <a href="https://ladieslearningcode.github.io/klc-generative-art-with-processing/notes-en.html">ladieslearningcode.github.io/klc-generative-art-with-processing/notes-en.html</a>
+Preview Instructor Notes: <a href="https://prescod.github.io/klc-generative-art-with-processing/notes-en.html">prescod.github.io/klc-generative-art-with-processing/notes-en.html</a>
 
-Preview Slides: <a href="https://ladieslearningcode.github.io/klc-generative-art-with-processing/slides-en.html">ladieslearningcode.github.io/klc-generative-art-with-processing/slides-en.html</a>
+Preview Slides: <a href="https://prescod.github.io/klc-generative-art-with-processing/slides-en.html">prescod.github.io/klc-generative-art-with-processing/slides-en.html</a>
 
 Activity List: <a href="http://bit.ly/processing-activity-list">bit.ly/processing-activity-list</a>
 
